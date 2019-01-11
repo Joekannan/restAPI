@@ -6,7 +6,7 @@ API = https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=fals
 
 <snippet>
   <content><![CDATA[
-# restAcceptanceTest
+# $restAcceptanceTest
 Project description:
 ## Installation
 TODO: Describe the installation process
