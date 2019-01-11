@@ -3,10 +3,11 @@ Uploading project for evaluation
 In this Maven project, a sample of code has been written to validate few acceptance criteria for the given API
 
 API = https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
+
 <snippet>
   <content><![CDATA[
-# ${1:Project Name}
-TODO: Write a project description
+# restAcceptanceTest
+Project description:
 ## Installation
 TODO: Describe the installation process
 ## Usage
